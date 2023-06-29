@@ -1,4 +1,5 @@
-# vishal-Library
+# DevRev Round 2 Task : Library Management Page
+# Website Name : vishal-Library
 
 #### - A Library management Project to rent books online. It offers a lot of features like : Create Account, Search and filter books.
 ### - Has 2 types of users : admin and normal. Admin had admin privileges
